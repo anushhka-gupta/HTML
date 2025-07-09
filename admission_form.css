@@ -1,0 +1,36 @@
+body{
+    background-color:#04060b;
+}
+
+.header{
+    background-color:#04060b;
+    color:#567cbd;
+}
+
+.image{
+    display:flex;
+    justify-content:center;
+}
+
+img{
+    border-radius:50%;
+}
+
+footer{
+    background-color: #567cbd;
+    color:#04060b;
+}
+
+.form{
+    display:flex;
+    flex-direction:column;
+    background-color:#567cbd;
+    padding:36px;
+    border-radius:10px;
+    color:#04060b;
+}
+
+.btn{
+    background-color:#04060b;
+    color:white;
+}
